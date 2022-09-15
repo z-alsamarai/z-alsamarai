@@ -5,8 +5,9 @@
   <samp>Hey there! My name is Zaiyad Alsamarai, but you can call me Zeko. I'm a <b>full-stack develoepr and a digital designer</b>. I have recently <b>graduated in May 2022</b> from The College of Idaho with a bachelor's degree in <b>Computer Science</b> and a bachelor's degree in <b>Business Administration</b>. I currently work as a Jr. Systems Engineer, and I'm <b>open for work</b> opportunities as a Jr. Software Developer, so please feel free to reach out. 
   <br>👇 You can also take a look my portfolio below 👇
   </samp>
-  <br> <br>
-  <a herf="http://zalsamarai.com/"><img src="assets\social-1200x600.png" alt="Zaiyad's Portfolio" />
+  <br>
+
+  <a href="https://zalsamarai.com/" target="_blank"> <img src="assets\social-1200x600.png" alt="Zaiyad's Portfolio" />
 </p>
 
 
