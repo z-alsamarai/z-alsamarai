@@ -36,5 +36,5 @@
 <hr>
 <h3  align="center">📊 My Stats</h3>
 <p align="center">
-    <a target="_blank"> <img src="https://github-readme-stats-23p8mii0n-z-alsamarai.vercel.app/api?username=z-alsamarai&show_icons=true&theme=radical" alt="Zeko’s Github stats"/> </a>
+    <a target="_blank"> <img src="https://github-readme-stats-i30pauwog-z-alsamarai.vercel.app/api?username=z-alsamarai&show_icons=true&theme=radical" alt="Zeko’s Github stats"/> </a>
 </p>
